@@ -1,0 +1,3178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260318021514JGB5XN</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260318021514Y6M8V3</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Los detectives de la oraciones</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>salvador vargas sanchez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1773796120952</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mmvcd2se-024oiidlm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Los detectives de la oraciones</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Los detectives de la oraciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Los detectives de la oraciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Los detectives de la oraciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2se-024oiidlm</odePageId>
+      <odeBlockId>20260318005233MTZTUR</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2se-024oiidlm</odePageId>
+          <odeBlockId>20260318005233MTZTUR</odeBlockId>
+          <odeIdeviceId>20260317112737769XZP</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start --><div class="exe-image-gallery-template"><!-- Idevice content start -->
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="20260317112737769XZP" title="" href="{{context_path}}/content/resources/20260317112737769XZP/Diseo_sin_ttulo.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/20260317112737769XZP/Diseo_sin_ttulo_thumb.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div><!-- Idevice content end --></div><!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317112737769XZP","img_0":{"img":"{{context_path}}/content/resources/20260317112737769XZP/Diseo_sin_ttulo.png","thumbnail":"{{context_path}}/content/resources/20260317112737769XZP/Diseo_sin_ttulo_thumb.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2sg-sgpximh2u</odePageId>
+  <odeParentPageId>page-mmvcd2se-024oiidlm</odeParentPageId>
+  <pageName>1. ¡Bienvenidos a la Agencia de Detectives!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. ¡Bienvenidos a la Agencia de Detectives!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. ¡Bienvenidos a la Agencia de Detectives!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. ¡Bienvenidos a la Agencia de Detectives!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2sg-sgpximh2u</odePageId>
+      <odeBlockId>20260318005233JZCLOA</odeBlockId>
+      <blockName></blockName>
+      <iconName>icon_agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2sg-sgpximh2u</odePageId>
+          <odeBlockId>20260318005233JZCLOA</odeBlockId>
+          <odeIdeviceId>20260317110517207QEK</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-fx exe-timeline">
+<h2><span style="background-color: #169179;">¡Hola, valiente Detective!</span></h2>
+<p>A partir de hoy, vuestras mochilas se convierten en maletines de detectives. Nuestra ciudad, Gramaticópolis, tiene un problema: ¡las oraciones se han desordenado y nadie sabe quién hace qué!</p>
+<p>Vuestra misión, si aceptáis el reto, es convertiros en Expertos Detectives de Oraciones. Tendréis que registrar pistas, interrogar textos y descubrir los secretos que esconden las palabras. ¿Estáis listos para resolver el gran misterio lingüístico?</p>
+<h2><span style="background-color: #169179;">🚀 El Gran Reto: "El Caso de la Historia Perdida"</span></h2>
+<p>Vuestro <strong>objetivo final </strong>es resolver <span style="background-color: #f1c40f;"><strong><em>"El Caso de la Historia Perdida".</em></strong></span> Al final de nuestra investigación de 21 días, cada equipo de detectives deberá escribir un informe (una historia corta) donde demostréis que ningún Sujeto, Verbo o Predicado puede esconderse de vosotros. ¡Los mejores informes serán publicados en el tablón oficial de la Agencia!</p>
+<h2><span style="background-color: #169179;">🎯 Nuestros Objetivos de Agente</span></h2>
+<p><strong>Para obtener vuestra placa oficial de detective, aprenderéis a:</strong></p>
+<p>🔍 <strong>Localizar al Sujeto: D</strong>escubrir quién es el protagonista de la acción.<br>🏃‍♂️ <strong>Cazar el Verbo: </strong>Identificar la acción que está ocurriendo.<br>🔎 <strong>Rastrear el Predicado:</strong> Averiguar todo lo que se dice del sujeto.<br>✍️ <strong>Construir Pruebas:</strong> Crear vuestras propias oraciones perfectas y sin errores.</p>
+<h2><span style="background-color: #169179;">🗺️ Guía Estratégica: El Calendario de la Misión</span><span style="background-color: #169179;"></span></h2>
+<p>Nuestra investigación durará 3 semanas (21 días). Así nos organizaremos:</p>
+<ul>
+<li><strong>Semana 1:</strong> El Rastro del Sujeto. Aprenderemos a ver quién está detrás de cada pista.</li>
+<li><strong>Semana 2:</strong> El Misterio de la Acción. Buscaremos los verbos y el predicado que los acompaña.</li>
+<li><strong>Semana 3:</strong> El Informe Final. Uniremos todas las piezas para escribir nuestra gran historia y resolver el caso.</li>
+</ul>
+<p>Pulsa aquí abajo para descubrir el tiempo de nuestra misión:<a href="https://www.mindomo.com/mindmap/f3480059d2e54830a60061cb7e5e93b7#:~:text=https%3A//www.mindomo.com/mindmap/f3480059d2e54830a60061cb7e5e93b7" id="link_5">https://www.mindomo.com/mindmap/f3480059d2e54830a60061cb7e5e93b7#:~:text=https%3A//www.mindomo.com/mindmap/f3480059d2e54830a60061cb7e5e93b7</a></p>
+<h2><span style="background-color: #169179;">🧠 Rutina de Pensamiento: El Escáner del Detective</span></h2>
+<p>Cada vez que encontréis una oración sospechosa, usad vuestro Escáner "Veo - Pienso - Me pregunto":</p>
+<p><strong>VEO</strong>: ¿Qué palabras hay en la pista? 🧐<br><strong>PIENSO:</strong> ¿Quién creo que está haciendo algo? 🤔<br><strong>ME PREGUNTO:</strong> ¿Qué está pasando exactamente? ❓</p>
+<h2 style="text-align: center;"><span style="background-color: #169179;">Antes de salir a la calle a investigar, mirad este vídeo de entrenamiento de la Academia de Detectives:</span></h2>
+<p><span style="background-color: #169179;"><iframe width="853" height="480" src="https://www.youtube.com/embed/pXfvfHBjTec" title="Sujeto predicado y verbo (oraciones simples)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></span></p>
+<p><br></p>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317110517207QEK","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-timeline\">\n<h2><span style=\"background-color: #169179;\">¡Hola, valiente Detective!</span></h2>\n<p>A partir de hoy, vuestras mochilas se convierten en maletines de detectives. Nuestra ciudad, Gramaticópolis, tiene un problema: ¡las oraciones se han desordenado y nadie sabe quién hace qué!</p>\n<p>Vuestra misión, si aceptáis el reto, es convertiros en Expertos Detectives de Oraciones. Tendréis que registrar pistas, interrogar textos y descubrir los secretos que esconden las palabras. ¿Estáis listos para resolver el gran misterio lingüístico?</p>\n<h2><span style=\"background-color: #169179;\">🚀 El Gran Reto: \"El Caso de la Historia Perdida\"</span></h2>\n<p>Vuestro <strong>objetivo final </strong>es resolver <span style=\"background-color: #f1c40f;\"><strong><em>\"El Caso de la Historia Perdida\".</em></strong></span> Al final de nuestra investigación de 21 días, cada equipo de detectives deberá escribir un informe (una historia corta) donde demostréis que ningún Sujeto, Verbo o Predicado puede esconderse de vosotros. ¡Los mejores informes serán publicados en el tablón oficial de la Agencia!</p>\n<h2><span style=\"background-color: #169179;\">🎯 Nuestros Objetivos de Agente</span></h2>\n<p><strong>Para obtener vuestra placa oficial de detective, aprenderéis a:</strong></p>\n<p>🔍 <strong>Localizar al Sujeto: D</strong>escubrir quién es el protagonista de la acción.<br />🏃‍♂️ <strong>Cazar el Verbo: </strong>Identificar la acción que está ocurriendo.<br />🔎 <strong>Rastrear el Predicado:</strong> Averiguar todo lo que se dice del sujeto.<br />✍️ <strong>Construir Pruebas:</strong> Crear vuestras propias oraciones perfectas y sin errores.</p>\n<h2><span style=\"background-color: #169179;\">🗺️ Guía Estratégica: El Calendario de la Misión</span><span style=\"background-color: #169179;\"></span></h2>\n<p>Nuestra investigación durará 3 semanas (21 días). Así nos organizaremos:</p>\n<ul>\n<li><strong>Semana 1:</strong> El Rastro del Sujeto. Aprenderemos a ver quién está detrás de cada pista.</li>\n<li><strong>Semana 2:</strong> El Misterio de la Acción. Buscaremos los verbos y el predicado que los acompaña.</li>\n<li><strong>Semana 3:</strong> El Informe Final. Uniremos todas las piezas para escribir nuestra gran historia y resolver el caso.</li>\n</ul>\n<p>Pulsa aquí abajo para descubrir el tiempo de nuestra misión:<a href=\"https://www.mindomo.com/mindmap/f3480059d2e54830a60061cb7e5e93b7#:~:text=https%3A//www.mindomo.com/mindmap/f3480059d2e54830a60061cb7e5e93b7\" id=\"link_5\">https://www.mindomo.com/mindmap/f3480059d2e54830a60061cb7e5e93b7#:~:text=https%3A//www.mindomo.com/mindmap/f3480059d2e54830a60061cb7e5e93b7</a></p>\n<h2><span style=\"background-color: #169179;\">🧠 Rutina de Pensamiento: El Escáner del Detective</span></h2>\n<p>Cada vez que encontréis una oración sospechosa, usad vuestro Escáner \"Veo - Pienso - Me pregunto\":</p>\n<p><strong>VEO</strong>: ¿Qué palabras hay en la pista? 🧐<br /><strong>PIENSO:</strong> ¿Quién creo que está haciendo algo? 🤔<br /><strong>ME PREGUNTO:</strong> ¿Qué está pasando exactamente? ❓</p>\n<h2 style=\"text-align: center;\"><span style=\"background-color: #169179;\">Antes de salir a la calle a investigar, mirad este vídeo de entrenamiento de la Academia de Detectives:</span></h2>\n<p><span style=\"background-color: #169179;\"><iframe width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/pXfvfHBjTec\" title=\"Sujeto predicado y verbo (oraciones simples)\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></span></p>\n<p><br /></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2sh-iustct9v6</odePageId>
+  <odeParentPageId>page-mmvcd2se-024oiidlm</odeParentPageId>
+  <pageName>2. Nuestra Primera Pista</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Nuestra Primera Pista</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Nuestra Primera Pista</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Nuestra Primera Pista</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2sh-iustct9v6</odePageId>
+      <odeBlockId>20260318005233VUQVJA</odeBlockId>
+      <blockName>PISTA</blockName>
+      <iconName>icon_magnifier</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2sh-iustct9v6</odePageId>
+          <odeBlockId>20260318005233VUQVJA</odeBlockId>
+          <odeIdeviceId>20260317110958757CAJ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p style="text-align: center;">Antes de empezar no debes de olvidar:</p>
+<p><img src="{{context_path}}/content/resources/20260317110958757CAJ/file_00000000f1b47246b6c60fa37e7fe539_1.png" width="800" height="1200" alt=""><img src="https://drive.google.com/file/d/10Enavze1Abg5AwdH_T_sMPZ-J3DFQr5w/view?usp=sharing" title="https://drive.google.com/file/d/10Enavze1Abg5AwdH_T_sMPZ-J3DFQr5w/view?usp=sharing" alt=""><img src="https://drive.google.com/file/d/10Enavze1Abg5AwdH_T_sMPZ-J3DFQr5w/view?usp=sharing" alt=""></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317110958757CAJ","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">Antes de empezar no debes de olvidar:</p>\n<p><img src=\"{{context_path}}/content/resources/20260317110958757CAJ/file_00000000f1b47246b6c60fa37e7fe539_1.png\" width=\"800\" height=\"1200\" alt=\"\" /><img src=\"https://drive.google.com/file/d/10Enavze1Abg5AwdH_T_sMPZ-J3DFQr5w/view?usp=sharing\" title=\"https://drive.google.com/file/d/10Enavze1Abg5AwdH_T_sMPZ-J3DFQr5w/view?usp=sharing\" alt=\"\" /><img src=\"https://drive.google.com/file/d/10Enavze1Abg5AwdH_T_sMPZ-J3DFQr5w/view?usp=sharing\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2si-sod1tjdxa</odePageId>
+  <odeParentPageId>page-mmvcd2se-024oiidlm</odeParentPageId>
+  <pageName>3. El Plan de Investigación (21 días)</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. El Plan de Investigación (21 días)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. El Plan de Investigación (21 días)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. El Plan de Investigación (21 días)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2si-sod1tjdxa</odePageId>
+      <odeBlockId>20260318005233FKWDSV</odeBlockId>
+      <blockName></blockName>
+      <iconName>icon_download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2si-sod1tjdxa</odePageId>
+          <odeBlockId>20260318005233FKWDSV</odeBlockId>
+          <odeIdeviceId>20260317113400350MG0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong><img src="{{context_path}}/content/resources/20260317113400350MG0/1000032462_1.jpg" width="665" height="1000" alt=""></strong></p>
+<p></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317113400350MG0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><img src=\"{{context_path}}/content/resources/20260317113400350MG0/1000032462_1.jpg\" width=\"665\" height=\"1000\" alt=\"\" /></strong></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2sj-1perblre6</odePageId>
+  <odeParentPageId>page-mmvcd2se-024oiidlm</odeParentPageId>
+  <pageName>4. 📋 Diario de Operaciones (Día a Día)</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. 📋 Diario de Operaciones (Día a Día)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. 📋 Diario de Operaciones (Día a Día)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. 📋 Diario de Operaciones (Día a Día)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2sj-1perblre6</odePageId>
+      <odeBlockId>20260318005233IYOHKT</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2sj-1perblre6</odePageId>
+          <odeBlockId>20260318005233IYOHKT</odeBlockId>
+          <odeIdeviceId>202603171409404823JF</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-mind-map">
+<figure class="exe-figure exe-image position-center" style="width: 553px;"><a href="data:image/png;base64,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" rel="lightbox" title="la oración"><img src="{{context_path}}/content/resources/202603171409404823JF/blobid0.png" width="553" height="280" alt="la oración"></a>
+<figcaption class="figcaption"><span class="title"><em>la oración</em></span></figcaption>
+</figure>
+<p class="exe-mindmap-code">{"id":"58019ebf-da6b-4d8f-b760-8dc96f4d8970","title":"la oración","mindmap":{"root":{"id":"0c2b9658-2bfc-416f-82e3-2d4caecc41f2","parentId":null,"text":{"caption":"la oración","font":{"style":"normal","weight":"bold","decoration":"none","size":20,"color":"#000000"}},"offset":{"x":0,"y":0},"foldChildren":false,"branchColor":"#000000","children":[{"id":"b009eff8-89cc-4251-b076-f4258c03e1b0","parentId":"0c2b9658-2bfc-416f-82e3-2d4caecc41f2","text":{"caption":"sujeto","font":{"style":"normal","weight":"normal","decoration":"none","size":15,"color":"#000000"}},"offset":{"x":-297,"y":102},"foldChildren":false,"branchColor":"#40c45d","children":[]},{"id":"0a9709dd-2b29-46ca-8c6f-1583b225a94e","parentId":"0c2b9658-2bfc-416f-82e3-2d4caecc41f2","text":{"caption":"prodicado","font":{"style":"normal","weight":"normal","decoration":"none","size":15,"color":"#000000"}},"offset":{"x":249,"y":115},"foldChildren":false,"branchColor":"#cdbaf6","children":[]},{"id":"897d8e8b-8ea4-47bc-a2dc-15c5efe15d94","parentId":"0c2b9658-2bfc-416f-82e3-2d4caecc41f2","text":{"caption":"verbo","font":{"style":"normal","weight":"normal","decoration":"none","size":15,"color":"#000000"}},"offset":{"x":132,"y":58},"foldChildren":false,"branchColor":"#a4760a","children":[]}]}},"dates":{"created":1773771009313,"modified":1773771249414},"dimensions":{"x":4000,"y":2000},"autosave":false}</p>
+</div>
+<p><strong>...Si quieres saber qué haremos cada jornada, consulta nuestra Agenda de Investigación:</strong></p>
+<p>Días 1-5: Presentación del <strong>Sujeto.</strong><br>Días 6-10: El <strong>Verbo </strong>en acción. ¡No se nos escapará ni un movimiento!<br>Días 11-15: Análisis de casos reales en cuentos y carteles. El <strong>Predicado</strong> al descubierto.<br>Días 16-21: Redacción del Informe Final (nuestra historia), revisión con la lupa y Gran Gala de Graduación de Detectives.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202603171409404823JF","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-mind-map\">\n<figure class=\"exe-figure exe-image position-center\" style=\"width: 553px;\"><a href=\"data:image/png;base64,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\" rel=\"lightbox\" title=\"la oración\"><img src=\"{{context_path}}/content/resources/202603171409404823JF/blobid0.png\" width=\"553\" height=\"280\" alt=\"la oración\" /></a>\n<figcaption class=\"figcaption\"><span class=\"title\"><em>la oración</em></span></figcaption>\n</figure>\n<p class=\"exe-mindmap-code\">{\"id\":\"58019ebf-da6b-4d8f-b760-8dc96f4d8970\",\"title\":\"la oración\",\"mindmap\":{\"root\":{\"id\":\"0c2b9658-2bfc-416f-82e3-2d4caecc41f2\",\"parentId\":null,\"text\":{\"caption\":\"la oración\",\"font\":{\"style\":\"normal\",\"weight\":\"bold\",\"decoration\":\"none\",\"size\":20,\"color\":\"#000000\"}},\"offset\":{\"x\":0,\"y\":0},\"foldChildren\":false,\"branchColor\":\"#000000\",\"children\":[{\"id\":\"b009eff8-89cc-4251-b076-f4258c03e1b0\",\"parentId\":\"0c2b9658-2bfc-416f-82e3-2d4caecc41f2\",\"text\":{\"caption\":\"sujeto\",\"font\":{\"style\":\"normal\",\"weight\":\"normal\",\"decoration\":\"none\",\"size\":15,\"color\":\"#000000\"}},\"offset\":{\"x\":-297,\"y\":102},\"foldChildren\":false,\"branchColor\":\"#40c45d\",\"children\":[]},{\"id\":\"0a9709dd-2b29-46ca-8c6f-1583b225a94e\",\"parentId\":\"0c2b9658-2bfc-416f-82e3-2d4caecc41f2\",\"text\":{\"caption\":\"prodicado\",\"font\":{\"style\":\"normal\",\"weight\":\"normal\",\"decoration\":\"none\",\"size\":15,\"color\":\"#000000\"}},\"offset\":{\"x\":249,\"y\":115},\"foldChildren\":false,\"branchColor\":\"#cdbaf6\",\"children\":[]},{\"id\":\"897d8e8b-8ea4-47bc-a2dc-15c5efe15d94\",\"parentId\":\"0c2b9658-2bfc-416f-82e3-2d4caecc41f2\",\"text\":{\"caption\":\"verbo\",\"font\":{\"style\":\"normal\",\"weight\":\"normal\",\"decoration\":\"none\",\"size\":15,\"color\":\"#000000\"}},\"offset\":{\"x\":132,\"y\":58},\"foldChildren\":false,\"branchColor\":\"#a4760a\",\"children\":[]}]}},\"dates\":{\"created\":1773771009313,\"modified\":1773771249414},\"dimensions\":{\"x\":4000,\"y\":2000},\"autosave\":false}</p>\n</div>\n<p><strong>...Si quieres saber qué haremos cada jornada, consulta nuestra Agenda de Investigación:</strong></p>\n<p>Días 1-5: Presentación del <strong>Sujeto.</strong><br />Días 6-10: El <strong>Verbo </strong>en acción. ¡No se nos escapará ni un movimiento!<br />Días 11-15: Análisis de casos reales en cuentos y carteles. El <strong>Predicado</strong> al descubierto.<br />Días 16-21: Redacción del Informe Final (nuestra historia), revisión con la lupa y Gran Gala de Graduación de Detectives.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2sk-e3whskfvn</odePageId>
+  <odeParentPageId>page-mmvcd2sj-1perblre6</odeParentPageId>
+  <pageName>4.1 El Laboratorio del Sujeto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1 El Laboratorio del Sujeto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1 El Laboratorio del Sujeto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.1 El Laboratorio del Sujeto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2sk-e3whskfvn</odePageId>
+      <odeBlockId>20260318005233VWZKPS</odeBlockId>
+      <blockName>El sujeto</blockName>
+      <iconName>icon_think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2sk-e3whskfvn</odePageId>
+          <odeBlockId>20260318005233VWZKPS</odeBlockId>
+          <odeIdeviceId>20260317121329357XT2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>🕵️‍♂️ <strong>¿Qué es el Sujeto?</strong>&nbsp;El Sujeto es la parte de la oración que nos dice quién realiza la acción o de quién estamos hablando. Es como el personaje principal de una película: sin él, no sabríamos a quién le pasan las cosas.</p>
+<p><strong>1. La Pregunta Mágica </strong>✨<br>Para encontrar al sujeto en cualquier oración, solo tienes que convertirte en detective y preguntarle al verbo (la acción):</p>
+<p style="text-align: center;"><span style="font-size: 18pt;"><strong>¿Quién? o ¿Quiénes?</strong></span></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317121329357XT2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🕵️‍♂️ <strong>¿Qué es el Sujeto?</strong> El Sujeto es la parte de la oración que nos dice quién realiza la acción o de quién estamos hablando. Es como el personaje principal de una película: sin él, no sabríamos a quién le pasan las cosas.</p>\n<p><strong>1. La Pregunta Mágica </strong>✨<br />Para encontrar al sujeto en cualquier oración, solo tienes que convertirte en detective y preguntarle al verbo (la acción):</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18pt;\"><strong>¿Quién? o ¿Quiénes?</strong></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2sl-2vw4x6bmw</odePageId>
+  <odeParentPageId>page-mmvcd2sk-e3whskfvn</odeParentPageId>
+  <pageName>4.1.1.Tipos de &quot;Protagonistas&quot; o &quot;sujetos&quot;</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1.1.Tipos de &quot;Protagonistas&quot; o &quot;sujetos&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1.1.Tipos de &quot;Protagonistas&quot; o &quot;sujetos&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2sl-2vw4x6bmw</odePageId>
+      <odeBlockId>20260318005233ZMWWZJ</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2sl-2vw4x6bmw</odePageId>
+          <odeBlockId>20260318005233ZMWWZJ</odeBlockId>
+          <odeIdeviceId>20260317121945739QTT</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>El sujeto no siempre es una persona; puede ser de muchos tipos:</p>
+<div class="exe-fx exe-tabs">
+<h2>Una persona:</h2>
+<p>Es cuando el protagonista es alguien con nombre propio o una profesión.</p>
+<p>Ejemplo: "Sofía lee un libro de misterio."<br>Ejemplo: "El cartero trajo un paquete."<br>Pregunta de detective: ¿Quién lee? → Sofía.</p>
+<h2>Un animal:</h2>
+<p>Nuestros amigos peludos o salvajes también hacen acciones.</p>
+<p>Ejemplo: "El gato salta por la ventana."<br>Ejemplo: "Los pájaros cantan por la mañana."<br>Pregunta de detective: ¿Quiénes cantan? → Los pájaros.</p>
+<h2>Un objeto:&nbsp;</h2>
+<p>A veces, las cosas son las protagonistas de la frase.</p>
+<p>Ejemplo: "El reloj marca las cinco."<br>Ejemplo: "La mochila pesa demasiado."<br>Pregunta de detective: ¿Qué cosa pesa? → La mochila.</p>
+<h2>Un grupo:</h2>
+<p>Es cuando hay más de una persona o cosa haciendo la misma acción a la vez.</p>
+<p>Ejemplo: "Mis amigos y yo jugamos al fútbol."<br>Ejemplo: "Los alumnos de 4º son muy inteligentes."<br>Pregunta de detective: ¿Quiénes jugamos? → Mis amigos y yo.</p>
+</div>
+<p></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317121945739QTT","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El sujeto no siempre es una persona; puede ser de muchos tipos:</p>\n<div class=\"exe-fx exe-tabs\">\n<h2>Una persona:</h2>\n<p>Es cuando el protagonista es alguien con nombre propio o una profesión.</p>\n<p>Ejemplo: \"Sofía lee un libro de misterio.\"<br />Ejemplo: \"El cartero trajo un paquete.\"<br />Pregunta de detective: ¿Quién lee? → Sofía.</p>\n<h2>Un animal:</h2>\n<p>Nuestros amigos peludos o salvajes también hacen acciones.</p>\n<p>Ejemplo: \"El gato salta por la ventana.\"<br />Ejemplo: \"Los pájaros cantan por la mañana.\"<br />Pregunta de detective: ¿Quiénes cantan? → Los pájaros.</p>\n<h2>Un objeto: </h2>\n<p>A veces, las cosas son las protagonistas de la frase.</p>\n<p>Ejemplo: \"El reloj marca las cinco.\"<br />Ejemplo: \"La mochila pesa demasiado.\"<br />Pregunta de detective: ¿Qué cosa pesa? → La mochila.</p>\n<h2>Un grupo:</h2>\n<p>Es cuando hay más de una persona o cosa haciendo la misma acción a la vez.</p>\n<p>Ejemplo: \"Mis amigos y yo jugamos al fútbol.\"<br />Ejemplo: \"Los alumnos de 4º son muy inteligentes.\"<br />Pregunta de detective: ¿Quiénes jugamos? → Mis amigos y yo.</p>\n</div>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2sm-8wl3itpm9</odePageId>
+  <odeParentPageId>page-mmvcd2sk-e3whskfvn</odeParentPageId>
+  <pageName>4.1.2 ¿Con quién concuerda el sujeto?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1.2 ¿Con quién concuerda el sujeto?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1.2 ¿Con quién concuerda el sujeto?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.1.2 ¿Con quién concuerda el sujeto?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2sm-8wl3itpm9</odePageId>
+      <odeBlockId>20260318005233ZMCNOS</odeBlockId>
+      <blockName>El truco</blockName>
+      <iconName>icon_reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2sm-8wl3itpm9</odePageId>
+          <odeBlockId>20260318005233ZMCNOS</odeBlockId>
+          <odeIdeviceId>20260317131405268WCX</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>💡<strong> Un truco extra: La prueba de la amistad</strong> (Concordancia)<br>El Sujeto y el Verbo son "mejores amigos" y siempre tienen que ir a juego. Si el sujeto es uno solo (singular), el verbo va en singular. Si el sujeto son varios (plural), el verbo tiene que ir en plural.</p>
+<p>Bien: El niño juega. (Uno solo)<br>Bien: Los niños juegan. (Varios)<br></p>
+<p><strong>Regla de oro:</strong> Si cambias el número del verbo (de singular a plural), la palabra que te veas obligado a cambiar también... ¡ese es el sujeto!</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317131405268WCX","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>💡<strong> Un truco extra: La prueba de la amistad</strong> (Concordancia)<br />El Sujeto y el Verbo son \"mejores amigos\" y siempre tienen que ir a juego. Si el sujeto es uno solo (singular), el verbo va en singular. Si el sujeto son varios (plural), el verbo tiene que ir en plural.</p>\n<p>Bien: El niño juega. (Uno solo)<br />Bien: Los niños juegan. (Varios)<br /></p>\n<p><strong>Regla de oro:</strong> Si cambias el número del verbo (de singular a plural), la palabra que te veas obligado a cambiar también... ¡ese es el sujeto!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2so-jom5xgs35</odePageId>
+  <odeParentPageId>page-mmvcd2sk-e3whskfvn</odeParentPageId>
+  <pageName>4.1.3. Veamos un video</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1.3. Veamos un video</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1.3. Veamos un video</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.1.3. Veamos un video</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2so-jom5xgs35</odePageId>
+      <odeBlockId>20260318005233OPIAKN</odeBlockId>
+      <blockName>Video</blockName>
+      <iconName>icon_think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2so-jom5xgs35</odePageId>
+          <odeBlockId>20260318005233OPIAKN</odeBlockId>
+          <odeIdeviceId>20260317132049884YTI</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p style="text-align: center;"><span style="font-size: 36pt;"><iframe width="560" height="314" style="font-size: 36pt;" src="https://www.youtube.com/embed/X4wJsPcVDlw" allowfullscreen="allowfullscreen"></iframe><br>El sujeto y su estructura</span></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317132049884YTI","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 36pt;\"><iframe width=\"560\" height=\"314\" style=\"font-size: 36pt;\" src=\"https://www.youtube.com/embed/X4wJsPcVDlw\" allowfullscreen=\"allowfullscreen\"></iframe><br />El sujeto y su estructura</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2sq-trtc7345l</odePageId>
+  <odeParentPageId>page-mmvcd2sj-1perblre6</odeParentPageId>
+  <pageName>4.2 El Motor del Verbo</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2 El Motor del Verbo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2 El Motor del Verbo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2sq-trtc7345l</odePageId>
+      <odeBlockId>20260318005233FTKEVG</odeBlockId>
+      <blockName>El verbo</blockName>
+      <iconName>icon_think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2sq-trtc7345l</odePageId>
+          <odeBlockId>20260318005233FTKEVG</odeBlockId>
+          <odeIdeviceId>20260317124151713O4H</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>🚀 <strong>El Verbo: ¡El Motor de la Oración!</strong></p>
+<p>Si el Sujeto es el protagonista de la película, el Verbo es todo lo que ese protagonista hace, siente o está. Es la palabra más importante porque nos cuenta la acción.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317124151713O4H","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🚀 <strong>El Verbo: ¡El Motor de la Oración!</strong></p>\n<p>Si el Sujeto es el protagonista de la película, el Verbo es todo lo que ese protagonista hace, siente o está. Es la palabra más importante porque nos cuenta la acción.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2ss-sj7r0hzvp</odePageId>
+  <odeParentPageId>page-mmvcd2sq-trtc7345l</odeParentPageId>
+  <pageName>4.2.1 ¿Cómo reconocer un Verbo?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2.1 ¿Cómo reconocer un Verbo?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2.1 ¿Cómo reconocer un Verbo?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2ss-sj7r0hzvp</odePageId>
+      <odeBlockId>20260318005233JXUOBC</odeBlockId>
+      <blockName>¿Qué indica un verbo?</blockName>
+      <iconName>icon_cabinet</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2ss-sj7r0hzvp</odePageId>
+          <odeBlockId>20260318005233JXUOBC</odeBlockId>
+          <odeIdeviceId>20260317124601283KDT</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>Los verbos son palabras que indican:</strong></p>
+<ul>
+<li><strong>Acciones:</strong> Correr, saltar, escribir, investigar, jugar.</li>
+<li><strong>Estados:</strong> Ser, estar, parecer.</li>
+<li><strong>Sentimientos:</strong> Amar, querer, odiar.</li>
+</ul><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317124601283KDT","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Los verbos son palabras que indican:</strong></p>\n<ul>\n<li><strong>Acciones:</strong> Correr, saltar, escribir, investigar, jugar.</li>\n<li><strong>Estados:</strong> Ser, estar, parecer.</li>\n<li><strong>Sentimientos:</strong> Amar, querer, odiar.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2st-vqepboxt4</odePageId>
+  <odeParentPageId>page-mmvcd2sq-trtc7345l</odeParentPageId>
+  <pageName>4.2.2 ¿ Quieres saber más?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2.2 ¿ Quieres saber más?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2.2 ¿ Quieres saber más?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2st-vqepboxt4</odePageId>
+      <odeBlockId>20260318005233UARDWR</odeBlockId>
+      <blockName>Truco</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2st-vqepboxt4</odePageId>
+          <odeBlockId>20260318005233UARDWR</odeBlockId>
+          <odeIdeviceId>20260317124840569M2A</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Un truco de detective para saber si una palabra es un verbo es intentar cambiarle el tiempo. ¡Solo los verbos pueden viajar en el tiempo!</p>
+<p><strong><span style="background-color: #f1c40f;">&nbsp; Pasado</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="background-color: #f1c40f;">Ayer &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ayer, Yo investigué el caso.</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong></p>
+<p><strong><span style="background-color: #3598db;">&nbsp; &nbsp; Hoy&nbsp; &nbsp; &nbsp; &nbsp; </span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="background-color: #3598db;">Presente &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Hoy, Yo investigo el caso.</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></p>
+<p><strong><span style="background-color: #e67e23;"> Futuro</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="background-color: #e67e23;">Mañana&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></strong><span style="background-color: #e67e23;">Mañana Yo investigaré el caso.</span><br></p>
+<p><br></p>
+<p>Si puedes decir "Ayer yo...", "Hoy yo..." o "Mañana yo...", ¡felicidades, has encontrado un verbo!</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317124840569M2A","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Un truco de detective para saber si una palabra es un verbo es intentar cambiarle el tiempo. ¡Solo los verbos pueden viajar en el tiempo!</p>\n<p><strong><span style=\"background-color: #f1c40f;\">  Pasado</span>               <span style=\"background-color: #f1c40f;\">Ayer          Ayer, Yo investigué el caso.</span>                                                                                      </strong></p>\n<p><strong><span style=\"background-color: #3598db;\">    Hoy        </span>           <span style=\"background-color: #3598db;\">Presente            Hoy, Yo investigo el caso.</span>                             </strong></p>\n<p><strong><span style=\"background-color: #e67e23;\"> Futuro</span>                  <span style=\"background-color: #e67e23;\">Mañana                  </span></strong><span style=\"background-color: #e67e23;\">Mañana Yo investigaré el caso.</span><br /></p>\n<p><br /></p>\n<p>Si puedes decir \"Ayer yo...\", \"Hoy yo...\" o \"Mañana yo...\", ¡felicidades, has encontrado un verbo!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2sv-i40w9kob5</odePageId>
+  <odeParentPageId>page-mmvcd2sq-trtc7345l</odeParentPageId>
+  <pageName>4.2.3 &quot;Serás el mejor de los detective&quot;</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2.3 &quot;Serás el mejor de los detective&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2.3 &quot;Serás el mejor de los detective&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2sv-i40w9kob5</odePageId>
+      <odeBlockId>20260318005233QQOLHZ</odeBlockId>
+      <blockName>3. El Infinitivo: El nombre del verbo</blockName>
+      <iconName>icon_cabinet</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2sv-i40w9kob5</odePageId>
+          <odeBlockId>20260318005233QQOLHZ</odeBlockId>
+          <odeIdeviceId>20260317125949596JS6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Los verbos, cuando están en "pijama" (sin conjugar), terminan siempre en -AR, -ER o -IR. A esto lo llamamos Infinitivo:</p>
+<p style="text-align: left;"><strong>1ª Conjugación (-AR): </strong>Cantar, saltar, estudiar.<br><strong>2ª Conjugación (-ER):</strong> Comer, leer, correr.<br><strong>3ª Conjugación (-IR): </strong>Reír, vivir, dormir</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317125949596JS6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los verbos, cuando están en \"pijama\" (sin conjugar), terminan siempre en -AR, -ER o -IR. A esto lo llamamos Infinitivo:</p>\n<p style=\"text-align: left;\"><strong>1ª Conjugación (-AR): </strong>Cantar, saltar, estudiar.<br /><strong>2ª Conjugación (-ER):</strong> Comer, leer, correr.<br /><strong>3ª Conjugación (-IR): </strong>Reír, vivir, dormir</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2sw-lz11v7frr</odePageId>
+  <odeParentPageId>page-mmvcd2sq-trtc7345l</odeParentPageId>
+  <pageName>4.2.4 Veamos un video</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2.4 Veamos un video</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2.4 Veamos un video</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2sw-lz11v7frr</odePageId>
+      <odeBlockId>20260318005233GXDPXN</odeBlockId>
+      <blockName></blockName>
+      <iconName>icon_think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2sw-lz11v7frr</odePageId>
+          <odeBlockId>20260318005233GXDPXN</odeBlockId>
+          <odeIdeviceId>20260317131012532OOY</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p style="text-align: center;"><span style="font-size: 36pt;"><iframe width="560" height="314" src="https://www.youtube.com/embed/xCK3JVp1yRQ" allowfullscreen="allowfullscreen"></iframe><br>El verbo </span></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317131012532OOY","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 36pt;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/xCK3JVp1yRQ\" allowfullscreen=\"allowfullscreen\"></iframe><br />El verbo </span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2sy-8q1p61aek</odePageId>
+  <odeParentPageId>page-mmvcd2sj-1perblre6</odeParentPageId>
+  <pageName>4.3 Cazadores de Predicados</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.3 Cazadores de Predicados</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.3 Cazadores de Predicados</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2sy-8q1p61aek</odePageId>
+      <odeBlockId>20260318005233QFDNMG</odeBlockId>
+      <blockName>El predicado</blockName>
+      <iconName>icon_cabinet</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2sy-8q1p61aek</odePageId>
+          <odeBlockId>20260318005233QFDNMG</odeBlockId>
+          <odeIdeviceId>20260317133338057BMP</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>🎭 <strong>El Predicado: ¿Qué hace nuestro protagonista?</strong><br>El Predicado es la parte de la oración que nos dice lo que el Sujeto hace o lo que se dice de él. Es la parte de la frase donde vive el Verbo.</p>
+<p></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317133338057BMP","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🎭 <strong>El Predicado: ¿Qué hace nuestro protagonista?</strong><br />El Predicado es la parte de la oración que nos dice lo que el Sujeto hace o lo que se dice de él. Es la parte de la frase donde vive el Verbo.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2sz-9v8lq7sbk</odePageId>
+  <odeParentPageId>page-mmvcd2sy-8q1p61aek</odeParentPageId>
+  <pageName>4.3.1  La Pregunta de Detective 🔍</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.3.1  La Pregunta de Detective 🔍</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.3.1  La Pregunta de Detective 🔍</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.3.1  La Pregunta de Detective 🔍</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2sz-9v8lq7sbk</odePageId>
+      <odeBlockId>20260318005233TBKOST</odeBlockId>
+      <blockName>La Pregunta de Detective 🔍</blockName>
+      <iconName>icon_magnifier</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2sz-9v8lq7sbk</odePageId>
+          <odeBlockId>20260318005233TBKOST</odeBlockId>
+          <odeIdeviceId>20260317133504677S8U</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><br>Para encontrar el predicado, primero localiza al sujeto y luego hazle esta pregunta:</p>
+<p style="text-align: center;"><strong><span style="font-size: 18pt;">¿Qué hace el sujeto? </span>o <span style="font-size: 18pt;">¿Qué se dice de él?</span></strong></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317133504677S8U","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br />Para encontrar el predicado, primero localiza al sujeto y luego hazle esta pregunta:</p>\n<p style=\"text-align: center;\"><strong><span style=\"font-size: 18pt;\">¿Qué hace el sujeto? </span>o <span style=\"font-size: 18pt;\">¿Qué se dice de él?</span></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2t0-bpe0tamgw</odePageId>
+  <odeParentPageId>page-mmvcd2sy-8q1p61aek</odeParentPageId>
+  <pageName>4.3.2 El Corazón del Predicado: El Núcleo</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.3.2 El Corazón del Predicado: El Núcleo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.3.2 El Corazón del Predicado: El Núcleo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.3.2 El Corazón del Predicado: El Núcleo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2t0-bpe0tamgw</odePageId>
+      <odeBlockId>20260318005233XMJWRA</odeBlockId>
+      <blockName>El Corazón del Predicado: El Núcleo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2t0-bpe0tamgw</odePageId>
+          <odeBlockId>20260318005233XMJWRA</odeBlockId>
+          <odeIdeviceId>202603171337595771F8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Dentro del predicado hay una palabra que es la más importante de todas. Se llama <span style="font-size: 18pt;"><strong>Núcleo (N)</strong></span> y siempre, siempre es un verbo.</p>
+<p><strong>Ejemplo:</strong> "Los alumnos juegan en el patio."</p>
+<p><strong>Predicado:</strong> juegan en el patio.<br><strong>Núcleo:</strong> juegan (porque es la acción).</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202603171337595771F8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Dentro del predicado hay una palabra que es la más importante de todas. Se llama <span style=\"font-size: 18pt;\"><strong>Núcleo (N)</strong></span> y siempre, siempre es un verbo.</p>\n<p><strong>Ejemplo:</strong> \"Los alumnos juegan en el patio.\"</p>\n<p><strong>Predicado:</strong> juegan en el patio.<br /><strong>Núcleo:</strong> juegan (porque es la acción).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2t1-habceba6j</odePageId>
+  <odeParentPageId>page-mmvcd2sy-8q1p61aek</odeParentPageId>
+  <pageName>4.3.3 💡 EL  Detective descubre al núcleo</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.3.3 💡 EL  Detective descubre al núcleo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.3.3 💡 EL  Detective descubre al núcleo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2t1-habceba6j</odePageId>
+      <odeBlockId>20260318005233MTXVTY</odeBlockId>
+      <blockName>Truco</blockName>
+      <iconName>icon_reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2t1-habceba6j</odePageId>
+          <odeBlockId>20260318005233MTXVTY</odeBlockId>
+          <odeIdeviceId>20260317134250139XSI</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Todo lo que no es sujeto, es predicado. Es como un rompecabezas de dos piezas. Si quitas al sujeto, lo que queda en la mano es el predicado.<br>El verbo nunca se queda fuera. El verbo es el jefe del predicado, así que siempre tiene que estar subrayado dentro de él.</p>
+<p><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317134250139XSI","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Todo lo que no es sujeto, es predicado. Es como un rompecabezas de dos piezas. Si quitas al sujeto, lo que queda en la mano es el predicado.<br />El verbo nunca se queda fuera. El verbo es el jefe del predicado, así que siempre tiene que estar subrayado dentro de él.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2t2-316gvstcw</odePageId>
+  <odeParentPageId>page-mmvcd2se-024oiidlm</odeParentPageId>
+  <pageName>5.Misiones Digitales (Tareas)</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.Misiones Digitales (Tareas)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.Misiones Digitales (Tareas)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5.Misiones Digitales (Tareas)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2t2-316gvstcw</odePageId>
+      <odeBlockId>20260318005233FVIBOB</odeBlockId>
+      <blockName></blockName>
+      <iconName>icon_share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2t2-316gvstcw</odePageId>
+          <odeBlockId>20260318005233FVIBOB</odeBlockId>
+          <odeIdeviceId>20260317152442358P6N</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-fx exe-accordion">
+<h2>Búsqueda de Sospechosos:&nbsp;</h2>
+<p>Identificar sujetos en fichas policiales.&nbsp;</p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/hf898a8oysezv7ro" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0px; padding: 8px 8px 8px 0px; text-align: center;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet"></a></div>
+</div>
+<h2>Análisis de Pruebas Reales:</h2>
+<p>Buscar oraciones en periódicos digitales y subrayar con colores (Sujeto-Azul, Verbo-Rojo, Predicado-Verde).</p>
+<p>Mira el ejemplo:&nbsp; <span style="background-color: #c2e0f4;">La niña pequeña&nbsp; &nbsp;</span> <span style="background-color: #e03e2d;">juega&nbsp; &nbsp; </span><span style="background-color: #2dc26b;">&nbsp;con su muñeca</span></p>
+<h2>Misión El Espía de Oraciones:&nbsp;</h2>
+<p>Busca en el Symbaloo.&nbsp;Míralo con atención y escribe en tu cuaderno: ¿Cuál es la "pregunta mágica" que el vídeo dice que hay que hacer para encontrar al sujeto?</p>
+<p><iframe width="930px" height="620px" frameborder="0" noresize="noresize" src="https://www.symbaloo.com/embed/shared/AAAABucIQBsAA42ADs9TEw=="></iframe></p>
+</div>
+<pre><br></pre>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0px; margin: 0px; text-align: center;"><br></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet"></a></div>
+</div>
+<p>...</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317152442358P6N","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>Búsqueda de Sospechosos: </h2>\n<p>Identificar sujetos en fichas policiales. </p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/hf898a8oysezv7ro\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0px; padding: 8px 8px 8px 0px; text-align: center;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>\n<h2>Análisis de Pruebas Reales:</h2>\n<p>Buscar oraciones en periódicos digitales y subrayar con colores (Sujeto-Azul, Verbo-Rojo, Predicado-Verde).</p>\n<p>Mira el ejemplo:  <span style=\"background-color: #c2e0f4;\">La niña pequeña   </span> <span style=\"background-color: #e03e2d;\">juega    </span><span style=\"background-color: #2dc26b;\"> con su muñeca</span></p>\n<h2>Misión El Espía de Oraciones: </h2>\n<p>Busca en el Symbaloo. Míralo con atención y escribe en tu cuaderno: ¿Cuál es la \"pregunta mágica\" que el vídeo dice que hay que hacer para encontrar al sujeto?</p>\n<p><iframe width=\"930px\" height=\"620px\" frameborder=\"0\" noresize=\"noresize\" src=\"https://www.symbaloo.com/embed/shared/AAAABucIQBsAA42ADs9TEw==\"></iframe></p>\n</div>\n<pre><br /></pre>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0px; margin: 0px; text-align: center;\"><br /></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>\n<p>...</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2t3-4r1jtup0l</odePageId>
+  <odeParentPageId>page-mmvcd2se-024oiidlm</odeParentPageId>
+  <pageName>6.Producto Final: El Mural de las Oraciones Vivas</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.Producto Final: El Mural de las Oraciones Vivas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.Producto Final: El Mural de las Oraciones Vivas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6.Producto Final: El Mural de las Oraciones Vivas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2t3-4r1jtup0l</odePageId>
+      <odeBlockId>20260318005233CFNCJD</odeBlockId>
+      <blockName>🎨 Misión Final: ¡Crea tu Mural de Detective!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2t3-4r1jtup0l</odePageId>
+          <odeBlockId>20260318005233CFNCJD</odeBlockId>
+          <odeIdeviceId>202603171551172390AR</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Fase de Creación: El Laboratorio de Pruebas<br>&nbsp;Utiliza los iDevices de eXeLearning para dejar constancia de su aprendizaje. Completa estas tres secciones:</p>
+<p><strong>Sección "Huellas Dactilares"</strong>: Uso del iDevice Pregunta de Elección Múltiple donde ellos mismos deben inventar 3 preguntas trampa sobre el Sujeto y el Predicado para retar a sus compañeros.<br><strong></strong></p>
+<p><strong>Sección "El Mapa del Crimen": </strong>Deben subir una imagen (dibujada por ellos o buscada en un banco libre como Pixabay) y escribir una oración que la describa, analizando sintácticamente sus partes mediante el iDevice Texto Libre.<br><strong></strong></p>
+<p><strong>Sección "Cerrando el Caso"</strong>: Un pequeño vídeo (grabado con el móvil o tablet) donde expliquen, como si fueran reporteros de noticias, por qué es importante que el sujeto y el verbo siempre estén "de acuerdo" (concordancia).</p>
+<p style="text-align: left;"><br><br></p>
+<p><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202603171551172390AR","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Fase de Creación: El Laboratorio de Pruebas<br /> Utiliza los iDevices de eXeLearning para dejar constancia de su aprendizaje. Completa estas tres secciones:</p>\n<p><strong>Sección \"Huellas Dactilares\"</strong>: Uso del iDevice Pregunta de Elección Múltiple donde ellos mismos deben inventar 3 preguntas trampa sobre el Sujeto y el Predicado para retar a sus compañeros.<br /><strong></strong></p>\n<p><strong>Sección \"El Mapa del Crimen\": </strong>Deben subir una imagen (dibujada por ellos o buscada en un banco libre como Pixabay) y escribir una oración que la describa, analizando sintácticamente sus partes mediante el iDevice Texto Libre.<br /><strong></strong></p>\n<p><strong>Sección \"Cerrando el Caso\"</strong>: Un pequeño vídeo (grabado con el móvil o tablet) donde expliquen, como si fueran reporteros de noticias, por qué es importante que el sujeto y el verbo siempre estén \"de acuerdo\" (concordancia).</p>\n<p style=\"text-align: left;\"><br /><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mmvcd2t3-4r1jtup0l</odePageId>
+      <odeBlockId>20260318005233TXCNRX</odeBlockId>
+      <blockName>Formulario</blockName>
+      <iconName>icon_download</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2t3-4r1jtup0l</odePageId>
+          <odeBlockId>20260318005233TXCNRX</odeBlockId>
+          <odeIdeviceId>202603172026359941M5</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container"><div class="game-evaluation-ids js-hidden" data-id="202603172026359941M5" data-evaluationb="false" data-evaluationid="20260317091124CZQGMI"></div>
+
+            <div id="frmMainContainer-202603172026359941M5" class="form-IDevice" data-id="202603172026359941M5">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-202603172026359941M5">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-202603172026359941M5" style="display:none;">
+                      <button  id="frmStartGame-202603172026359941M5" type="button" class="btn btn-primary">Pulse aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-202603172026359941M5" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-202603172026359941M5" > </div>
+                        <div id="frmCover-202603172026359941M5" class="FRMP-Cover"> </div>
+                    </div>
+                    
+                    <div id="resultsContainer-202603172026359941M5" class="form-results-container inline">
+                        <div id="form-score-202603172026359941M5" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-202603172026359941M5" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-202603172026359941M5" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="202603172026359941M5" data-pass-rate="" />
+                        <input id="form-button-reset-202603172026359941M5" type="button" value="Reiniciar"
+                            data-id="202603172026359941M5" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-202603172026359941M5" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="202603172026359941M5" style="display: " />
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-202603172026359941M5" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                <div class="form-instructions"></div>
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+            </div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202603172026359941M5","evaluation":false,"evaluationID":"20260317091124CZQGMI","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Weight","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulse aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulse aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior"},"id":"202603172026359941M5","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"activityType":"true-false","baseText":"<p>Para encontrar al 'Sujeto' en una oración, el detective siempre debe preguntar: ¿Quién o quiénes realizan la acción?</p>","answer":"1"},{"activityType":"true-false","baseText":"<p>El Verbo es la palabra que nos indica la acción o el estado, como por ejemplo: 'salta', 'está' o 'investiga'.</p>","answer":"1"},{"activityType":"true-false","baseText":"<p>En el proyecto, una oración completa siempre debe tener estas tres piezas: Sujeto + Verbo + Predicado.</p>","answer":"0"},{"activityType":"true-false","baseText":"<p>La rutina V-P-P (Veo, Pienso, me Pregunto) sirve para analizar las oraciones con más cuidado antes de diseñarlas.</p>","answer":"1"},{"activityType":"true-false","baseText":"<p>Trabajar en equipo significa que una sola persona hace todo el trabajo en Canva mientras los demás miran.</p>","answer":"0"},{"activityType":"true-false","baseText":"<p>Si una oración es: 'El detective busca pistas', el Sujeto es 'pistas'.</p>","answer":"0"},{"activityType":"true-false","baseText":"<p>En Canva, usamos el color rojo para identificar el núcleo del verbo porque es la parte más importante.</p>","answer":"1"},{"activityType":"true-false","baseText":"<p>He compartido mis dudas con mis compañeros o el profesor cuando no encontraba el predicado.</p>","answer":"1"},{"activityType":"true-false","baseText":"<p>Al terminar el mural, ahora soy capaz de crear oraciones divertidas y señalar sus partes sin ayuda.</p>","answer":"1"}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2t6-5bptpz8ij</odePageId>
+  <odeParentPageId>page-mmvcd2t3-4r1jtup0l</odeParentPageId>
+  <pageName>6.1 El Boceto del Detective (Pre-producción)</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.1 El Boceto del Detective (Pre-producción)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.1 El Boceto del Detective (Pre-producción)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6.1 El Boceto del Detective (Pre-producción)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2t6-5bptpz8ij</odePageId>
+      <odeBlockId>20260318005233CRJNZR</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2t6-5bptpz8ij</odePageId>
+          <odeBlockId>20260318005233CRJNZR</odeBlockId>
+          <odeIdeviceId>20260317162054540CHC</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Antes de tocar el ordenador, un buen detective organiza sus pruebas. Cada equipo debe elegir 3 "casos" (oraciones) de su cuaderno que hayan resuelto durante la semana.</p>
+<p><strong>Paso A:</strong> Escribid las 3 oraciones en un papel.<br><strong>Paso B:</strong> Subrayad con vuestros lápices de colores: Azul<span style="color: #236fa1;"> (Sujeto)</span>, Rojo <span style="color: #e03e2d;">(Verbo)</span> y Verde <span style="color: #2dc26b;">(Predicado).</span><br><strong>Paso C:</strong> Al lado de cada oración, dibujad un icono rápido de lo que buscaréis luego en Canva (ejemplo: si el sujeto es "El bombero", dibujad un casco).<br></p>
+<p><strong>¿Por qué hacemos esto?</strong> Para que cuando lleguéis al ordenador, sepáis exactamente qué escribir y no perdáis tiempo si la conexión va lenta.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317162054540CHC","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de tocar el ordenador, un buen detective organiza sus pruebas. Cada equipo debe elegir 3 \"casos\" (oraciones) de su cuaderno que hayan resuelto durante la semana.</p>\n<p><strong>Paso A:</strong> Escribid las 3 oraciones en un papel.<br /><strong>Paso B:</strong> Subrayad con vuestros lápices de colores: Azul<span style=\"color: #236fa1;\"> (Sujeto)</span>, Rojo <span style=\"color: #e03e2d;\">(Verbo)</span> y Verde <span style=\"color: #2dc26b;\">(Predicado).</span><br /><strong>Paso C:</strong> Al lado de cada oración, dibujad un icono rápido de lo que buscaréis luego en Canva (ejemplo: si el sujeto es \"El bombero\", dibujad un casco).<br /></p>\n<p><strong>¿Por qué hacemos esto?</strong> Para que cuando lleguéis al ordenador, sepáis exactamente qué escribir y no perdáis tiempo si la conexión va lenta.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2t7-ik99ie9q0</odePageId>
+  <odeParentPageId>page-mmvcd2t3-4r1jtup0l</odeParentPageId>
+  <pageName>6.2 Construyendo el Mural en Canva (Producción)</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.2 Construyendo el Mural en Canva (Producción)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.2 Construyendo el Mural en Canva (Producción)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6.2 Construyendo el Mural en Canva (Producción)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2t7-ik99ie9q0</odePageId>
+      <odeBlockId>20260318005233ALOTOO</odeBlockId>
+      <blockName>&quot;Mural Interactivo de la Oración&quot;.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2t7-ik99ie9q0</odePageId>
+          <odeBlockId>20260318005233ALOTOO</odeBlockId>
+          <odeIdeviceId>202603171929026824E2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong id="link_6" title="">&nbsp;¡Es hora de entrar en el laboratorio digital!</strong> Abrid vuestro navegador y entrad en el enlace de la clase en Canva. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.canva.com/design/DAHENxT_y3M/SJYixH9m-hp4n8f3M1GKvg/edit?utm_content=DAHENxT_y3M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Mi trabajo en Canva</a></p>
+<p>Instrucciones de montaje:</p>
+<p>El Fondo: Elegid un fondo de "pizarra" o "corcho de detective".<br>Cajas Mágicas: Usad la herramienta de "Elementos" -> "Formas".</p>
+<p>Cread una caja <span style="background-color: #3598db;">Azul y escribid dentro el Sujeto.</span><br>Cread una caja<span style="background-color: #e03e2d;"> Roja para el Verbo.</span><br>Cread una caja <span style="background-color: #2dc26b;">Verde para el resto del Predicado.</span><br></p>
+<p><strong>La Prueba Visual:</strong> Buscad en "Elementos" un icono o dibujo que represente vuestra oración y colocadlo justo encima. ¡Haced que la oración esté viva!<br></p>
+<p></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202603171929026824E2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong id=\"link_6\" title=\"\"> ¡Es hora de entrar en el laboratorio digital!</strong> Abrid vuestro navegador y entrad en el enlace de la clase en Canva.            <a href=\"https://www.canva.com/design/DAHENxT_y3M/SJYixH9m-hp4n8f3M1GKvg/edit?utm_content=DAHENxT_y3M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\">Mi trabajo en Canva</a></p>\n<p>Instrucciones de montaje:</p>\n<p>El Fondo: Elegid un fondo de \"pizarra\" o \"corcho de detective\".<br />Cajas Mágicas: Usad la herramienta de \"Elementos\" -> \"Formas\".</p>\n<p>Cread una caja <span style=\"background-color: #3598db;\">Azul y escribid dentro el Sujeto.</span><br />Cread una caja<span style=\"background-color: #e03e2d;\"> Roja para el Verbo.</span><br />Cread una caja <span style=\"background-color: #2dc26b;\">Verde para el resto del Predicado.</span><br /></p>\n<p><strong>La Prueba Visual:</strong> Buscad en \"Elementos\" un icono o dibujo que represente vuestra oración y colocadlo justo encima. ¡Haced que la oración esté viva!<br /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2t8-kk41e9bb4</odePageId>
+  <odeParentPageId>page-mmvcd2t3-4r1jtup0l</odeParentPageId>
+  <pageName>6.3 La Galería de Evidencias (Post- producción).</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.3 La Galería de Evidencias (Post- producción).</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.3 La Galería de Evidencias (Post- producción).</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6.3 La Galería de Evidencias (Post- producción).</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2t8-kk41e9bb4</odePageId>
+      <odeBlockId>20260318005233ZQQRYZ</odeBlockId>
+      <blockName>Feedback: Sube los trabajos de los alumnos</blockName>
+      <iconName>icon_theater</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2t8-kk41e9bb4</odePageId>
+          <odeBlockId>20260318005233ZQQRYZ</odeBlockId>
+          <odeIdeviceId>202603171959218779C4</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start --><div class="exe-image-gallery-template"><!-- Idevice content start -->
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="202603171959218779C4" title="" href="{{context_path}}/content/resources/202603171959218779C4/ficha_n-1.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/202603171959218779C4/ficha_n-1_thumb.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div><!-- Idevice content end --></div><!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202603171959218779C4","img_0":{"img":"{{context_path}}/content/resources/202603171959218779C4/ficha_n-1.jpg","thumbnail":"{{context_path}}/content/resources/202603171959218779C4/ficha_n-1_thumb.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2t9-bil0nlwzr</odePageId>
+  <odeParentPageId>page-mmvcd2se-024oiidlm</odeParentPageId>
+  <pageName>7.¿Cómo lo estamos haciendo? (Autoevaluación)</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.¿Cómo lo estamos haciendo? (Autoevaluación)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.¿Cómo lo estamos haciendo? (Autoevaluación)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7.¿Cómo lo estamos haciendo? (Autoevaluación)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2t9-bil0nlwzr</odePageId>
+      <odeBlockId>20260318005233OXLTYG</odeBlockId>
+      <blockName>¿Cómo
+lo estamos haciendo?</blockName>
+      <iconName>icon_write</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2t9-bil0nlwzr</odePageId>
+          <odeBlockId>20260318005233OXLTYG</odeBlockId>
+          <odeIdeviceId>20260317164707698IFN</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p class="exe-rubrics-instructions">los detectives de las oraciones</p><table class='exe-table'><caption>los detectives de las oraciones</caption><thead><tr><th>&nbsp;</th><th>EXCELENTE</th><th>BUENO</th><th>EN PROCESO</th><th>INICIAL</th></tr></thead><tbody><tr><th>Identificación del Sujeto </th><td>Localiza siempre el sujeto preguntando  <span>(2.5)</span></td><td>Identifica el sujeto correctamente en la mayoría de las oraciones simples de forma autónoma. <span>(1.75)</span></td><td>Identifica el sujeto a veces, pero suele confundirlo con otros elementos si no se le presta ayuda. <span>(1.50)</span></td><td>No logra identificar quién realiza la acción en la oración, ni siquiera con apoyo visual. <span>(1.25)</span></td></tr><tr><th>Identificación del Verbo</th><td>Reconoce con rapidez el verbo como el núcleo de la acción y motor de la oración en cualquier contexto. <span>(2.5)</span></td><td>Identifica el verbo en oraciones sencillas, aunque puede dudar en tiempos compuestos o formas complejas. <span>(1.75)</span></td><td>Encuentra el verbo si la oración es muy simple o tras varios intentos/pistas del docente. <span>(1.50)</span></td><td>No reconoce la palabra que indica la acción o el estado dentro de la oración. <span>(1.25)</span></td></tr><tr><th>Identificación del Predicado</th><td>Delimita con precisión todo lo que se dice del sujeto, comprendiendo que el verbo es su parte principal. <span>(2.5)</span></td><td>Identifica el predicado correctamente la mayor parte del tiempo, aunque a veces olvida incluir complementos. <span>(1.75)</span></td><td>Confunde partes del predicado con el sujeto o solo señala el verbo como predicado. <span>(1.50)</span></td><td>No diferencia qué parte de la oración es la que aporta información sobre el sujeto. <span>(1.25)</span></td></tr><tr><th>Construcción de Oraciones y Coherencia</th><td>Crea historias con oraciones ricas, variadas y correctamente estructuradas (S+V+P) con excelente ortografía. <span>(2.5)</span></td><td>Construye oraciones completas y con sentido que respetan la estructura básica estudiada. <span>(1.75)</span></td><td>Escribe oraciones muy simples o con errores de concordancia entre sujeto y verbo. <span>(1.5)</span></td><td>No logra formar oraciones con sentido completo o le faltan elementos esenciales (sujeto o verbo). <span>(1.25)</span></td></tr><tr><th>Pensamiento Crítico (Rutina Veo-Pienso-Me Pregunto)</th><td>Aplica la rutina de forma profunda, planteando preguntas ingeniosas sobre la estructura del lenguaje. <span>(2.5)</span></td><td>Realiza la rutina de forma lógica, diferenciando bien lo que observa de lo que deduce. <span>(1.75)</span></td><td>Completa la rutina de forma superficial o necesita guía constante para completar cada paso. <span>(1.5)</span></td><td>No consigue seguir los pasos de la rutina de pensamiento propuesta para analizar pistas. <span>(1.25)</span></td></tr><tr><th>Trabajo Cooperativo y Participación</th><td>Lidera y colabora activamente en su equipo de detectives, respetando turnos y ayudando a sus compañeros. <span>(2.5)</span></td><td>Participa de forma constructiva en las tareas grupales y cumple con su rol asignado. <span>(1.75)</span></td><td>Participa de forma pasiva o necesita que se le recuerde constantemente su tarea dentro del grupo. <span>(1.5)</span></td><td>Muestra desinterés por las actividades grupales o interrumpe el trabajo de los demás detectives <span>(1.25)</span></td></tr></tbody></table><p class="exe-rubrics-authorship sr-av"><span class="author">salvador</span>. <span class="title"><em>los detectives de las oraciones</em></span> </p><ul class="exe-rubrics-strings"><li class="activity">evaluación</li><li class="name">salvador vargas</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2ta-yk1lzoxo3</odePageId>
+  <odeParentPageId>page-mmvcd2se-024oiidlm</odeParentPageId>
+  <pageName>8.El Diario del Comisario (Reflexión)</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8.El Diario del Comisario (Reflexión)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8.El Diario del Comisario (Reflexión)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8.El Diario del Comisario (Reflexión)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2ta-yk1lzoxo3</odePageId>
+      <odeBlockId>20260318005233XKRIXY</odeBlockId>
+      <blockName>Formulario</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2ta-yk1lzoxo3</odePageId>
+          <odeBlockId>20260318005233XKRIXY</odeBlockId>
+          <odeIdeviceId>20260317203735505JOE</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container"><div class="game-evaluation-ids js-hidden" data-id="20260317203735505JOE" data-evaluationb="false" data-evaluationid="20260317091124CZQGMI"></div>
+
+            <div id="frmMainContainer-20260317203735505JOE" class="form-IDevice" data-id="20260317203735505JOE">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-20260317203735505JOE">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-20260317203735505JOE" style="display:none;">
+                      <button  id="frmStartGame-20260317203735505JOE" type="button" class="btn btn-primary">Pulse aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-20260317203735505JOE" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-20260317203735505JOE" > </div>
+                        <div id="frmCover-20260317203735505JOE" class="FRMP-Cover"> </div>
+                    </div>
+                    
+                    <div id="resultsContainer-20260317203735505JOE" class="form-results-container inline">
+                        <div id="form-score-20260317203735505JOE" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-20260317203735505JOE" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-20260317203735505JOE" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="20260317203735505JOE" data-pass-rate="" />
+                        <input id="form-button-reset-20260317203735505JOE" type="button" value="Reiniciar"
+                            data-id="20260317203735505JOE" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-20260317203735505JOE" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="20260317203735505JOE" style="display: " />
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-20260317203735505JOE" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                <div class="form-instructions"></div>
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+            </div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317203735505JOE","evaluation":false,"evaluationID":"20260317091124CZQGMI","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Weight","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulse aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulse aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior"},"id":"20260317203735505JOE","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"activityType":"fill","baseText":"<p>¿Cómo se ha sentido el alumnado usando la tecnología? (¿Alegre, confundido, emocionado?)<br><br>&nbsp;</p>","capitalization":"true","strict":"true"},{"activityType":"fill","baseText":"<p>¿Qué harías diferente en la próxima investigación?<br>&nbsp;</p>","capitalization":"true","strict":"true"},{"activityType":"fill","baseText":"<p>¿Qué fue lo más difícil de encontrar: el sujeto o el verbo?</p>","capitalization":"true","strict":"true"},{"activityType":"fill","baseText":"<p>¿Cómo te sentiste usando el ordenador para ser detective?</p>","capitalization":"true","strict":"true"},{"activityType":"fill","baseText":"<p>&nbsp;¿Identifas el predicado?</p>","capitalization":"true","strict":"true"}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2tb-tu16vqleb</odePageId>
+  <odeParentPageId>page-mmvcd2se-024oiidlm</odeParentPageId>
+  <pageName>🎖️ Créditos del Proyecto</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🎖️ Créditos del Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🎖️ Créditos del Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2tb-tu16vqleb</odePageId>
+      <odeBlockId>20260318005233PQDBLJ</odeBlockId>
+      <blockName>Autoría y Propiedad Intelectual</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2tb-tu16vqleb</odePageId>
+          <odeBlockId>20260318005233PQDBLJ</odeBlockId>
+          <odeIdeviceId>20260317210701532UZP</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><br><strong>Título del Proyecto: </strong>"Los Detectives de las Oraciones" (SdA para 4º de Primaria).<br><strong>Autor: </strong>Salvador Vargas Sánchez (Coordinador de 2º Ciclo).<br><strong>Herramienta de Autor:</strong> Proyecto creado íntegramente con eXeLearning 3.<br><strong>Fecha de publicación:</strong> Marzo de 2026.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317210701532UZP","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /><strong>Título del Proyecto: </strong>\"Los Detectives de las Oraciones\" (SdA para 4º de Primaria).<br /><strong>Autor: </strong>Salvador Vargas Sánchez (Coordinador de 2º Ciclo).<br /><strong>Herramienta de Autor:</strong> Proyecto creado íntegramente con eXeLearning 3.<br /><strong>Fecha de publicación:</strong> Marzo de 2026.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mmvcd2tb-tu16vqleb</odePageId>
+      <odeBlockId>20260318005233TSCKUR</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2tb-tu16vqleb</odePageId>
+          <odeBlockId>20260318005233TSCKUR</odeBlockId>
+          <odeIdeviceId>20260317211054441WZQ</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>Los detectives de la oraciones</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>-Este recurso educativo ha sido diseñado como una Situación de Aprendizaje (SdA) para el área de Lengua Castellana y Literatura. Su objetivo es el aprendizaje de la sintaxis básica (Sujeto, Verbo y Predicado) mediante metodologías activas (Gamificación y Aprendizaje Basado en Retos) y el uso de herramientas digitales como Canva para Educación. Está diseñado bajo los principios del DUA para atender a la diversidad del aula.</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>-Salvador Vargas Sánchez</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td>Este material se publica bajo la licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmvcd2tc-3psb0o34w</odePageId>
+  <odeParentPageId>page-mmvcd2se-024oiidlm</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmvcd2tc-3psb0o34w</odePageId>
+      <odeBlockId>20260318005233WECDLM</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmvcd2tc-3psb0o34w</odePageId>
+          <odeBlockId>20260318005233WECDLM</odeBlockId>
+          <odeIdeviceId>20260317211942773P71</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><a href="https://docs.google.com/document/d/1kwDexuVJ_9Z84mxd8di5gbpD4WilYJvf4bg5LXVzHhs/edit?usp=sharing" id="link_7">Relacionamos tareas con criterios de evaluación</a></p>
+<p><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260317211942773P71","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1kwDexuVJ_9Z84mxd8di5gbpD4WilYJvf4bg5LXVzHhs/edit?usp=sharing\" id=\"link_7\">Relacionamos tareas con criterios de evaluación</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
